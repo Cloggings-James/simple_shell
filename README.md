@@ -1,3 +1,7 @@
+colllaborative project
+
+
+Files description
 AUTHORS -> List of contributors to this repository
 man_1_simple_shell -> Manual page for the simple_shell
 shell.h -> Header file
